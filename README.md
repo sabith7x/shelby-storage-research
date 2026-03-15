@@ -25,3 +25,13 @@ This repository will contain ongoing experiments, notes, and implementation idea
 
 ## Status
 Early research phase — exploring Shelby developer ecosystem and storage architecture.# shelby-storage-research
+# Shelby Protocol Project Ideas
+
+## Idea 1
+Decentralized media hosting platform where users upload images and videos stored through decentralized storage networks.
+
+## Idea 2
+NFT metadata hosting system that stores metadata and images in decentralized storage.
+
+## Idea 3
+Web3 application asset storage system for developers building decentralized apps.
