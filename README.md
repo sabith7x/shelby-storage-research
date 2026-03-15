@@ -35,3 +35,5 @@ NFT metadata hosting system that stores metadata and images in decentralized sto
 
 ## Idea 3
 Web3 application asset storage system for developers building decentralized apps.
+## Current Focus
+Exploring decentralized storage networks and developer tools to understand how modern Web3 infrastructure handles large datasets and application assets.
