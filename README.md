@@ -37,3 +37,13 @@ NFT metadata hosting system that stores metadata and images in decentralized sto
 Web3 application asset storage system for developers building decentralized apps.
 ## Current Focus
 Exploring decentralized storage networks and developer tools to understand how modern Web3 infrastructure handles large datasets and application assets.
+# Developer Learning Log
+
+Day 1
+Exploring decentralized storage architecture and developer SDK integration.
+
+Day 2
+Researching developer documentation and storage workflows.
+
+Goal:
+Understand how developers integrate decentralized storage into Web3 applications.
